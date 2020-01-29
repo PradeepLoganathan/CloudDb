@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudDb", "CloudDb\CloudDb.csproj", "{56CC6EF4-8976-41CA-8694-5B838D84123B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56CC6EF4-8976-41CA-8694-5B838D84123B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CC6EF4-8976-41CA-8694-5B838D84123B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CC6EF4-8976-41CA-8694-5B838D84123B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CC6EF4-8976-41CA-8694-5B838D84123B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE651614-ABBE-461D-B1C1-157BE7245B89}
+	EndGlobalSection
+EndGlobal
